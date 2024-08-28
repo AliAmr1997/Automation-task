@@ -45,8 +45,7 @@ To run the tests, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/AliAmr1997/Automation-task.git
     ```
 
 2. **Install Dependencies**:
@@ -77,7 +76,7 @@ To run the tests, follow these steps:
 
 4. **Run Robot Framework Tests**:
     ```bash
-    cd Testcases
+    cd .\Testcases\
     robot TC01.robot
     robot TC02.robot
     robot TC03.robot
